@@ -50,4 +50,4 @@ El instalador es de distribución pública. El uso de la aplicación requiere un
 
 ## 🆘 Soporte
 
-Si encuentras un problema con la instalación o actualización, escribe a **soportef@misimpuestosco.com**.
+Si encuentras un problema con la instalación o actualización, escribe a **soporte@misimpuestosco.com**.
